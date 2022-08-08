@@ -1,7 +1,7 @@
 import datetime
 import calendar
 
-from src.conf.config import TZ
+from src.conf.internal_config import TZ
 
 
 def now_datetime():
